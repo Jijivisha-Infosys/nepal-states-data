@@ -1,0 +1,352 @@
+[
+  {
+    "name_en": "Province No. 1",
+    "name_np": "",
+    "districts": [
+      {
+        "name_en": "Bhojpur",
+        "name_np": ""
+      },
+      {
+        "name_en": "Dhankuta",
+        "name_np": ""
+      },
+      {
+        "name_en": "Illam",
+        "name_np": ""
+      },
+      {
+        "name_en": "Jhapa",
+        "name_np": ""
+      },
+      {
+        "name_en": "Khotang",
+        "name_np": ""
+      },
+      {
+        "name_en": "Morang",
+        "name_np": ""
+      },
+      {
+        "name_en": "Okhaldhunga",
+        "name_np": ""
+      },
+      {
+        "name_en": "Pachthar",
+        "name_np": ""
+      },
+      {
+        "name_en": "Sankhuwasabha",
+        "name_np": ""
+      },
+      {
+        "name_en": "Solukhumbu",
+        "name_np": ""
+      },
+      {
+        "name_en": "Sunsari",
+        "name_np": ""
+      },
+      {
+        "name_en": "Taplejung",
+        "name_np": ""
+      },
+      {
+        "name_en": "Terhathum",
+        "name_np": ""
+      },
+      {
+        "name_en": "Udayapur",
+        "name_np": ""
+      }
+    ]
+  },
+  {
+    "name_en": "Province No. 2",
+    "name_np": "",
+    "districts": [
+      {
+        "name_en": "Bara",
+        "name_np": ""
+      },
+      {
+        "name_en": "Dhanusa",
+        "name_np": ""
+      },
+      {
+        "name_en": "Mahottari",
+        "name_np": ""
+      },
+      {
+        "name_en": "Parsa",
+        "name_np": ""
+      },
+      {
+        "name_en": "Rautahat",
+        "name_np": ""
+      },
+      {
+        "name_en": "Saptari",
+        "name_np": ""
+      },
+      {
+        "name_en": "Sarlahi",
+        "name_np": ""
+      },
+      {
+        "name_en": "Siraha",
+        "name_np": ""
+      }
+    ]
+  },
+  {
+    "name_en": "Bagmati",
+    "name_np": "",
+    "districts": [
+      {
+        "name_en": "Bhaktapur",
+        "name_np": ""
+      },
+      {
+        "name_en": "Chitwan",
+        "name_np": ""
+      },
+      {
+        "name_en": "Dhading",
+        "name_np": ""
+      },
+      {
+        "name_en": "Dolakha",
+        "name_np": ""
+      },
+      {
+        "name_en": "Kathmandu",
+        "name_np": ""
+      },
+      {
+        "name_en": "Kavrepalanchok",
+        "name_np": ""
+      },
+      {
+        "name_en": "Lalitpur",
+        "name_np": ""
+      },
+      {
+        "name_en": "Makawanpur",
+        "name_np": ""
+      },
+      {
+        "name_en": "Nuwakot",
+        "name_np": ""
+      },
+      {
+        "name_en": "Ramechhap",
+        "name_np": ""
+      },
+      {
+        "name_en": "Rasuwa",
+        "name_np": ""
+      },
+      {
+        "name_en": "Sindhuli",
+        "name_np": ""
+      },
+      {
+        "name_en": "Sindhupalchok",
+        "name_np": ""
+      }
+    ]
+  },
+  {
+    "name_en": "Gandaki",
+    "name_np": "",
+    "districts": [
+      {
+        "name_en": "Baglung",
+        "name_np": ""
+      },
+      {
+        "name_en": "Gorkha",
+        "name_np": ""
+      },
+      {
+        "name_en": "Kaski",
+        "name_np": ""
+      },
+      {
+        "name_en": "Lamjung",
+        "name_np": ""
+      },
+      {
+        "name_en": "Manang",
+        "name_np": ""
+      },
+      {
+        "name_en": "Mustang",
+        "name_np": ""
+      },
+      {
+        "name_en": "Myagdi",
+        "name_np": ""
+      },
+      {
+        "name_en": "Nawalpur",
+        "name_np": ""
+      },
+      {
+        "name_en": "Parbat",
+        "name_np": ""
+      },
+      {
+        "name_en": "Syangja",
+        "name_np": ""
+      },
+      {
+        "name_en": "Tanahu",
+        "name_np": ""
+      }
+    ]
+  },
+  {
+    "name_en": "Lumbini",
+    "name_np": "",
+    "districts": [
+      {
+        "name_en": "Arghakhanchi",
+        "name_np": ""
+      },
+      {
+        "name_en": "Banke",
+        "name_np": ""
+      },
+      {
+        "name_en": "Bardiya",
+        "name_np": ""
+      },
+      {
+        "name_en": "Dang",
+        "name_np": ""
+      },
+      {
+        "name_en": "Gulmi",
+        "name_np": ""
+      },
+      {
+        "name_en": "Kapilvastu",
+        "name_np": ""
+      },
+      {
+        "name_en": "Parasi",
+        "name_np": ""
+      },
+      {
+        "name_en": "Palpa",
+        "name_np": ""
+      },
+      {
+        "name_en": "Pyuthan",
+        "name_np": ""
+      },
+      {
+        "name_en": "Rolpa",
+        "name_np": ""
+      },
+      {
+        "name_en": "Rukum",
+        "name_np": ""
+      },
+      {
+        "name_en": "Rupandehi",
+        "name_np": ""
+      }
+    ]
+  },
+  {
+    "name_en": "Karnali",
+    "name_np": "",
+    "districts": [
+      {
+        "name_en": "Dailekh",
+        "name_np": ""
+      },
+      {
+        "name_en": "Dolpa",
+        "name_np": ""
+      },
+      {
+        "name_en": "Humla",
+        "name_np": ""
+      },
+      {
+        "name_en": "Jajarkot",
+        "name_np": ""
+      },
+      {
+        "name_en": "Jumla",
+        "name_np": ""
+      },
+      {
+        "name_en": "Kalikot",
+        "name_np": ""
+      },
+      {
+        "name_en": "Mugu",
+        "name_np": ""
+      },
+      {
+        "name_en": "Rukum",
+        "name_np": ""
+      },
+      {
+        "name_en": "Salyan",
+        "name_np": ""
+      },
+      {
+        "name_en": "Surkhet",
+        "name_np": ""
+      }
+    ]
+  },
+  {
+    "name_en": "Sudurpashchim",
+    "name_np": "",
+    "districts": [
+      {
+        "name_en": "Achham",
+        "name_np": ""
+      },
+      {
+        "name_en": "Baitadi",
+        "name_np": ""
+      },
+      {
+        "name_en": "Bajhang",
+        "name_np": ""
+      },
+      {
+        "name_en": "Bajura",
+        "name_np": ""
+      },
+      {
+        "name_en": "Dadeldhura",
+        "name_np": ""
+      },
+      {
+        "name_en": "Darchula",
+        "name_np": ""
+      },
+      {
+        "name_en": "Doti",
+        "name_np": ""
+      },
+      {
+        "name_en": "Kailali",
+        "name_np": ""
+      },
+      {
+        "name_en": "Kanchanpur",
+        "name_np": ""
+      }
+    ]
+  }
+]
