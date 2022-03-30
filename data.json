@@ -2,6 +2,7 @@
   {
     "name_en": "Province No. 1",
     "name_np": "",
+    "capital": "Biratnagar",
     "districts": [
       {
         "name_en": "Bhojpur",
@@ -64,6 +65,7 @@
   {
     "name_en": "Province No. 2",
     "name_np": "",
+    "capital": "Janakpur",
     "districts": [
       {
         "name_en": "Bara",
@@ -102,6 +104,7 @@
   {
     "name_en": "Bagmati",
     "name_np": "",
+    "capital": "Hetauda",
     "districts": [
       {
         "name_en": "Bhaktapur",
@@ -160,6 +163,7 @@
   {
     "name_en": "Gandaki",
     "name_np": "",
+    "capital": "Pokhara",
     "districts": [
       {
         "name_en": "Baglung",
@@ -210,6 +214,7 @@
   {
     "name_en": "Lumbini",
     "name_np": "",
+    "capital": "Butwal",
     "districts": [
       {
         "name_en": "Arghakhanchi",
@@ -264,6 +269,7 @@
   {
     "name_en": "Karnali",
     "name_np": "",
+    "capital": "Birendranagar",
     "districts": [
       {
         "name_en": "Dailekh",
@@ -310,6 +316,7 @@
   {
     "name_en": "Sudurpashchim",
     "name_np": "",
+    "capital": "Godawari",
     "districts": [
       {
         "name_en": "Achham",
