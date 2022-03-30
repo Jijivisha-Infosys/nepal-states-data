@@ -1,358 +1,358 @@
 [
   {
     "name_en": "Province No. 1",
-    "name_np": "",
+    "name_np": "प्रदेश नं. १",
     "capital": "Biratnagar",
     "districts": [
       {
         "name_en": "Bhojpur",
-        "name_np": ""
+        "name_np": "भोजपुर"
       },
       {
         "name_en": "Dhankuta",
-        "name_np": ""
+        "name_np": "धनकुटा"
       },
       {
         "name_en": "Illam",
-        "name_np": ""
+        "name_np": "इलाम"
       },
       {
         "name_en": "Jhapa",
-        "name_np": ""
+        "name_np": "झापा"
       },
       {
         "name_en": "Khotang",
-        "name_np": ""
+        "name_np": "खोटाङ"
       },
       {
         "name_en": "Morang",
-        "name_np": ""
+        "name_np": "मोरङ"
       },
       {
         "name_en": "Okhaldhunga",
-        "name_np": ""
+        "name_np": "ओखलढुङ्गा"
       },
       {
         "name_en": "Pachthar",
-        "name_np": ""
+        "name_np": "पाँचथर"
       },
       {
         "name_en": "Sankhuwasabha",
-        "name_np": ""
+        "name_np": "संखुवासभा"
       },
       {
         "name_en": "Solukhumbu",
-        "name_np": ""
+        "name_np": "सोलुखुम्बु"
       },
       {
         "name_en": "Sunsari",
-        "name_np": ""
+        "name_np": "सुनसरी"
       },
       {
         "name_en": "Taplejung",
-        "name_np": ""
+        "name_np": "ताप्लेजुङ्ग"
       },
       {
         "name_en": "Terhathum",
-        "name_np": ""
+        "name_np": "तेह्रथुम"
       },
       {
         "name_en": "Udayapur",
-        "name_np": ""
+        "name_np": "उदयपुर"
       }
     ]
   },
   {
     "name_en": "Province No. 2",
-    "name_np": "",
+    "name_np": "प्रदेश नं. २",
     "capital": "Janakpur",
     "districts": [
       {
         "name_en": "Bara",
-        "name_np": ""
+        "name_np": "बारा"
       },
       {
         "name_en": "Dhanusa",
-        "name_np": ""
+        "name_np": "धनुषा"
       },
       {
         "name_en": "Mahottari",
-        "name_np": ""
+        "name_np": "महोत्तरी"
       },
       {
         "name_en": "Parsa",
-        "name_np": ""
+        "name_np": "पर्सा"
       },
       {
         "name_en": "Rautahat",
-        "name_np": ""
+        "name_np": "रौतहट"
       },
       {
         "name_en": "Saptari",
-        "name_np": ""
+        "name_np": "सप्तरी"
       },
       {
         "name_en": "Sarlahi",
-        "name_np": ""
+        "name_np": "सर्लाही"
       },
       {
         "name_en": "Siraha",
-        "name_np": ""
+        "name_np": "सिरहा"
       }
     ]
   },
   {
     "name_en": "Bagmati",
-    "name_np": "",
+    "name_np": "बागमती",
     "capital": "Hetauda",
     "districts": [
       {
         "name_en": "Bhaktapur",
-        "name_np": ""
+        "name_np": "भक्तपुर"
       },
       {
         "name_en": "Chitwan",
-        "name_np": ""
+        "name_np": "चितवन"
       },
       {
         "name_en": "Dhading",
-        "name_np": ""
+        "name_np": "धादिङ"
       },
       {
         "name_en": "Dolakha",
-        "name_np": ""
+        "name_np": "दोलखा"
       },
       {
         "name_en": "Kathmandu",
-        "name_np": ""
+        "name_np": "काठमाडौं"
       },
       {
         "name_en": "Kavrepalanchok",
-        "name_np": ""
+        "name_np": "काभ्रेपलाञ्चोक"
       },
       {
         "name_en": "Lalitpur",
-        "name_np": ""
+        "name_np": "ललितपुर"
       },
       {
         "name_en": "Makawanpur",
-        "name_np": ""
+        "name_np": "मकवानपुर"
       },
       {
         "name_en": "Nuwakot",
-        "name_np": ""
+        "name_np": "नुवाकोट"
       },
       {
         "name_en": "Ramechhap",
-        "name_np": ""
+        "name_np": "रामेछाप"
       },
       {
         "name_en": "Rasuwa",
-        "name_np": ""
+        "name_np": "रसुवा"
       },
       {
         "name_en": "Sindhuli",
-        "name_np": ""
+        "name_np": "सिन्धुली"
       },
       {
         "name_en": "Sindhupalchok",
-        "name_np": ""
+        "name_np": "सिन्धुपाल्चोक"
       }
     ]
   },
   {
     "name_en": "Gandaki",
-    "name_np": "",
+    "name_np": "गण्डकी",
     "capital": "Pokhara",
     "districts": [
       {
         "name_en": "Baglung",
-        "name_np": ""
+        "name_np": "बाग्लुङ"
       },
       {
         "name_en": "Gorkha",
-        "name_np": ""
+        "name_np": "गोरखा"
       },
       {
         "name_en": "Kaski",
-        "name_np": ""
+        "name_np": "कास्की"
       },
       {
         "name_en": "Lamjung",
-        "name_np": ""
+        "name_np": "लमजुङ"
       },
       {
         "name_en": "Manang",
-        "name_np": ""
+        "name_np": "मनाङ"
       },
       {
         "name_en": "Mustang",
-        "name_np": ""
+        "name_np": "मुस्ताङ"
       },
       {
         "name_en": "Myagdi",
-        "name_np": ""
+        "name_np": "म्याग्दी"
       },
       {
         "name_en": "Nawalpur",
-        "name_np": ""
+        "name_np": "नवलपुर"
       },
       {
         "name_en": "Parbat",
-        "name_np": ""
+        "name_np": "पर्वत"
       },
       {
         "name_en": "Syangja",
-        "name_np": ""
+        "name_np": "स्याङ्जा"
       },
       {
         "name_en": "Tanahu",
-        "name_np": ""
+        "name_np": "तनहुँ"
       }
     ]
   },
   {
     "name_en": "Lumbini",
-    "name_np": "",
+    "name_np": "लुम्बिनी",
     "capital": "Butwal",
     "districts": [
       {
         "name_en": "Arghakhanchi",
-        "name_np": ""
+        "name_np": "अर्घाखाँची"
       },
       {
         "name_en": "Banke",
-        "name_np": ""
+        "name_np": "बाँके"
       },
       {
         "name_en": "Bardiya",
-        "name_np": ""
+        "name_np": "बर्दिया"
       },
       {
         "name_en": "Dang",
-        "name_np": ""
+        "name_np": "दाङ"
       },
       {
         "name_en": "Gulmi",
-        "name_np": ""
+        "name_np": "गुल्मी"
       },
       {
         "name_en": "Kapilvastu",
-        "name_np": ""
+        "name_np": "कपिलवस्तु"
       },
       {
         "name_en": "Parasi",
-        "name_np": ""
+        "name_np": "परासी"
       },
       {
         "name_en": "Palpa",
-        "name_np": ""
+        "name_np": "पाल्पा"
       },
       {
         "name_en": "Pyuthan",
-        "name_np": ""
+        "name_np": "प्युठान"
       },
       {
         "name_en": "Rolpa",
-        "name_np": ""
+        "name_np": "रोल्पा"
       },
       {
         "name_en": "Rukum",
-        "name_np": ""
+        "name_np": "रुकुम"
       },
       {
         "name_en": "Rupandehi",
-        "name_np": ""
+        "name_np": "रुपन्देही"
       }
     ]
   },
   {
     "name_en": "Karnali",
-    "name_np": "",
+    "name_np": "कर्णाली",
     "capital": "Birendranagar",
     "districts": [
       {
         "name_en": "Dailekh",
-        "name_np": ""
+        "name_np": "दैलेख"
       },
       {
         "name_en": "Dolpa",
-        "name_np": ""
+        "name_np": "डोल्पा"
       },
       {
         "name_en": "Humla",
-        "name_np": ""
+        "name_np": "हुम्ला"
       },
       {
         "name_en": "Jajarkot",
-        "name_np": ""
+        "name_np": "जाजरकोट"
       },
       {
         "name_en": "Jumla",
-        "name_np": ""
+        "name_np": "जुम्ला"
       },
       {
         "name_en": "Kalikot",
-        "name_np": ""
+        "name_np": "कालिकोट"
       },
       {
         "name_en": "Mugu",
-        "name_np": ""
+        "name_np": "मुगु"
       },
       {
         "name_en": "Rukum",
-        "name_np": ""
+        "name_np": "रुकुम"
       },
       {
         "name_en": "Salyan",
-        "name_np": ""
+        "name_np": "सल्यान"
       },
       {
         "name_en": "Surkhet",
-        "name_np": ""
+        "name_np": "सुर्खेत"
       }
     ]
   },
   {
     "name_en": "Sudurpashchim",
-    "name_np": "",
+    "name_np": "सुदूरपश्चिम",
     "capital": "Godawari",
     "districts": [
       {
         "name_en": "Achham",
-        "name_np": ""
+        "name_np": "अछाम"
       },
       {
         "name_en": "Baitadi",
-        "name_np": ""
+        "name_np": "बैतडी"
       },
       {
         "name_en": "Bajhang",
-        "name_np": ""
+        "name_np": "बझाङ"
       },
       {
         "name_en": "Bajura",
-        "name_np": ""
+        "name_np": "बाजुरा"
       },
       {
         "name_en": "Dadeldhura",
-        "name_np": ""
+        "name_np": "डडेल्धुरा"
       },
       {
         "name_en": "Darchula",
-        "name_np": ""
+        "name_np": "दार्चुला"
       },
       {
         "name_en": "Doti",
-        "name_np": ""
+        "name_np": "डोटी"
       },
       {
         "name_en": "Kailali",
-        "name_np": ""
+        "name_np": "कैलाली"
       },
       {
         "name_en": "Kanchanpur",
-        "name_np": ""
+        "name_np": "कञ्चनपुर"
       }
     ]
   }
